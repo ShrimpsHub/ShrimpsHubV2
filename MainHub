@@ -1,5 +1,5 @@
--- Tower Of Hell        
+-- generic roleplay gaem.        
 
-if game.PlaceId == 1962086868 then
+if game.PlaceId == 4598019433 then
         local VLib = loadstring(game:HttpGet("https://github.com/ShrimpsHub/ShrimpsHubV2/blob/main/Generic%20Roleplay%20Gaem"))()
         end
