@@ -1,5 +1,5 @@
 -- generic roleplay gaem.        
 
 if game.PlaceId == 4598019433 then
-        local VLib = loadstring(game:HttpGet("https://github.com/ShrimpsHub/ShrimpsHubV2/blob/main/Generic%20Roleplay%20Gaem"))()
+        local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ShrimpsHub/ShrimpsHubV2/main/Generic%20Roleplay%20Gaem"))()
         end
