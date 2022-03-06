@@ -1,1 +1,5 @@
+-- Tower Of Hell        
 
+if game.PlaceId == 1962086868 then
+        local VLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ShrimpsHub/Shrimps-Hub/main/Tower%20of%20Hell"))()
+        end
